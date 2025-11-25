@@ -18,7 +18,9 @@ What customer segments purchase the most
 Payment preferences and seasonal trends
 Key metrics that support business decisions
 
-🧩 Project Structure
+## 🧩 Project Structure
+
+```text
 10.CUSTOMER_TREND_ANALYSIS
 │
 ├── Datasets
