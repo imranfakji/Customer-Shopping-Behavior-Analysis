@@ -151,4 +151,5 @@ This project showcases a complete, end-to-end analytics workflow — starting fr
 
 🔗 Connect With Me
 LinkedIn: www.linkedin.com/in/imranfakji9764267487
+
 GitHub: https://github.com/imranfakji/Customer-Shopping-Behavior-Analysis
