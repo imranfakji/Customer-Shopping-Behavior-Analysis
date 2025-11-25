@@ -12,7 +12,7 @@ This workflow simulates how data moves in real analytics environments used in co
 
 🎯 Business Goal
 To identify:
-Which products and categories drive revenue
+Which products and categories drive revenue 
 How discounts influence customer behavior
 What customer segments purchase the most
 Payment preferences and seasonal trends
@@ -49,11 +49,11 @@ Key metrics that support business decisions
 ✅ The img folder contains all dashboard screenshots used in this README.
 
 🛠️ Tech Stack
-Phase	Tools Used
+Phase	    Tools Used
 Database	MySQL
 Cleaning & EDA	Python (Jupyter Notebook), SQL
-Visualization	Power BI
-Documentation	PDF, GitHub
+Visualization    Power BI
+Documentation    PDF, GitHub
 
 📥 1️⃣ Data Import into SQL
 Designed MySQL database schema
