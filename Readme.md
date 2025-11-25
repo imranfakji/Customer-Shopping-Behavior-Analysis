@@ -4,10 +4,15 @@
 This project analyzes customer purchasing behavior using a realistic, industry-style data pipeline:
 
 ✅ Load raw dataset into SQL
+
 ✅ Clean & transform using SQL + Python
+
 ✅ Perform Exploratory Data Analysis (EDA)
+
 ✅ Reload the cleaned dataset into SQL
+
 ✅ Build an interactive Power BI dashboard for insights
+
 This workflow simulates how data moves in real analytics environments used in companies.
 
 🎯 Business Goal
