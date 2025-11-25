@@ -46,6 +46,7 @@ Key metrics that support business decisions
     ├── top_products.png
     ├── payment_method.png
     └── age_group.png
+```
 
 > **Note:** The `img` folder contains all dashboard screenshots used in this README.
 
